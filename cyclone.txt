@@ -1,0 +1,10 @@
+List,Cambodia,China,North Korea(DPRK),Hong Kong,Japan,Laos,Macau,Malaysia,Micronesia,Philippines,South Korea(ROK),Thailand,United States,Vietnam
+1,Damrey,Haikui,Kirogi,Kai-tak,Tembin,Bolaven,Sanba,Jelawat,Ewiniar,Maliksi,Gaemi,Prapiroon,Maria,Son-Tinh
+Ampil,Wukong,Jongdari,Shanshan,Yagi,Leepi,Bebinca,Rumbia,Soulik,Cimaron,Jebi,Mangkhut,Barijat,Trami
+2,Kong-rey,Yutu,Toraji,Man-yi,Usagi,Pabuk,Wutip,Sepat,Mun,Danas,Nari,Wipha,Francisco,Lekima
+Krosa,Bailu,Podul,Lingling,Kajiki,Faxai,Peipah,Tapah,Mitag,Hagibis,Neoguri,Bualoi,Matmo,Halong
+3,Nakri,Fengshen,Kalmaegi,Fung-wong,Kammuri,Phanfone,Vongfong,Nuri,Sinlaku,Hagupit,Jangmi,Mekkhala,Higos,Bavi
+Maysak,Haishen,Noul,Dolphin,Kujira,Chan-hom,Linfa,Nangka,Saudel,Molave,Goni,Atsani,Etau,Vamco
+4,Krovanh,Dujuan,Surigae,Choi-wan,Koguma,Champi,In-fa,Cempaka,Nepartak,Lupit,Mirinae,Nida,Omais,Conson
+Chanthu,Dianmu,Mindulle,Lionrock,Kompasu,Namtheun,Malou,Meranti[nb 1],Rai,Malakas,Megi,Chaba,Aere,Songda
+5,Sarika,Haima,Meari,Ma-on,Tokage,Nock-ten,Muifa,Merbok,Nanmadol,Talas,Noru,Kulap,Roke,Sonca,Nesat,Haitang,Nalgae,Banyan,Hato,Pakhar,Sanvu,Mawar,Guchol,Talim,Doksuri,Khanun,Lan,Saola
