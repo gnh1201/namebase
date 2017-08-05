@@ -1,0 +1,63 @@
+State,Common name,Scientific name,Year
+Alabama,Camellia,Camellia japonica,1959
+Alabama,Oak-leaf hydrangea,Hydrangea quercifolia,1999
+Alaska,Forget-me-not,Myosotis alpestris,1917
+Arizona,Saguaro cactus blossom,Carnegiea gigantea,1931
+Arkansas,Apple blossom,Malus,1901
+California,California poppy,Eschscholzia californica,1903
+Colorado,Rocky Mountain columbine,Aquilegia coerulea,1899
+Connecticut,Mountain laurel,Kalmia latifolia,1907
+Delaware,Peach blossom,Prunus persica,1953
+Florida,Orange blossom,Citrus sinensis,1909
+Florida,Tickseed,Coreopsis spp.,1991
+Georgia,Cherokee rose,Rosa laevigata,1916
+Georgia,Azalea (state wildflower),Rhododendron,1916
+Hawaii,Hawaiian hibiscus,Hibiscus brackenridgei,1916
+Idaho,Syringa, mock orange,Philadelphus lewisii,1931
+Illinois,Violet,Viola,1907
+Indiana,Peony,Paeonia,1907
+Iowa,Wild prairie rose,Rosa arkansana,1907
+Kansas,Sunflower,Helianthus annuus,1907
+Kentucky,Goldenrod,Solidago gigantea,1926
+Louisiana,Magnolia,Magnolia,1900
+Louisiana,Louisiana iris,Iris giganticaerulea,1900
+Maine,White pine cone and tassel,Pinus strobus,1895
+Maryland,Black-eyed susan,Rudbeckia hirta,1918
+Massachusetts,Mayflower,Epigaea repens,1918
+Michigan,Apple blossom,Malus,1897
+Michigan,Dwarf lake iris,Iris lacustris,1998
+Minnesota,Pink and white lady's slipper,Cypripedium reginae,1893
+Mississippi,Magnolia,Magnolia,1893
+Mississippi,Tickseed,Coreopsis,1893
+Missouri,Hawthorn,Crataegus,1893
+Montana,Bitterroot,Lewisia rediviva,1895
+Nebraska,Goldenrod,Solidago gigantea,1895
+Nevada,Sagebrush,Artemisia tridentata,1895
+New Hampshire,Purple lilac,Syringa vulgaris,1919
+New Jersey,Violet,Viola sororia,1919
+New Mexico,Yucca flower,Yucca,1927
+New York,Rose,Rosa,1927
+North Carolina,Flowering dogwood,Cornus florida,1941
+North Dakota,Wild prairie rose,Rosa blandaor arkansana,1941
+Ohio,Scarlet carnation,Dianthus caryophyllus,1953
+Ohio,Large white trillium,Trillium grandiflorum,1987
+Oklahoma,Oklahoma rose,Rosa,1987
+Oklahoma,Mistletoe,Phoradendron serotinum,1987
+Oklahoma,Indian blanket,Gaillardia pulchella,1987
+Oregon,Oregon grape,Berberis aquifolium,1987
+Pennsylvania,Mountain laurel,Kalmia latifolia,1933
+Pennsylvania,Penngift crown vetch,Coronilla varia,1982
+Rhode Island,Violet,Viola,1968
+South Carolina,Yellow jessamine,Gelsemium sempervirens,1924
+South Carolina,Goldenrod,Solidago altissima,2003
+South Dakota,Pasque flower,Pulsatilla hirsutissima,2003
+Tennessee,Iris,Iris,1933
+Tennessee,Purple passionflower,Passiflora incarnata,1919
+Texas,Bluebonnet sp,Lupinus sp.,1901
+Utah,Sego lily,Calochortus nuttallii,1911
+Vermont,Red clover,Trifolium pratense,1894
+Virginia,American dogwood,Cornus florida,1894
+Washington,Coast rhododendron,Rhododendron macrophyllum,1892
+West Virginia,Rhododendron,Rhododendron maximum,1892
+Wisconsin,Wood violet,Viola papilionacea,1909
+Wyoming,Indian paintbrush,Castilleja linariifolia,1917
